@@ -1,0 +1,4 @@
+
+Dog{petId = 1, healthy = false, petName = 'Rick', diseases = 'Canine flu', weight = 14.1, dogBreed = 'Husky', goodHouseKeeper = false}
+Woof! Woof!
+++++++++++++++++++++++
